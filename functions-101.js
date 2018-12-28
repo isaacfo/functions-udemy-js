@@ -41,6 +41,3 @@ console.log(tempOne)
 console.log(tempTwo)
 
 
-// Call a couple of times (32 -> 0) (68 -> 20)
-
-// Print the converted values
